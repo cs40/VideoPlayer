@@ -1,25 +1,24 @@
-# ReduxSimpleStarter
+# VideoPlayer
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+Based on the search, a call will be made to the YouTube Data API, and populates the page with relevant videos from the search.
+Using multiple views it displays the videos in a similar fashion that YouTube does. 
 
 ### Getting Started
 
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
+In this directory run the following command
 
 ```
 > npm install
+```
+
+Run the app using the following command
+
+```
 > npm start
+```
+
+After, go to your browser and head to this link 
+
+```
+>http://localhost:8080/
 ```
